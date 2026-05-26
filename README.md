@@ -163,7 +163,7 @@ Custom AI operators analyze every inbound message in real time:
 
 ```bash
 git clone <this-repo>
-cd arics-retail-preference-center
+cd retail-preference-convo
 npm install
 ```
 
