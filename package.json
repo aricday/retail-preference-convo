@@ -1,0 +1,18 @@
+{
+  "name": "arics-retail-preference-center",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "setup": "node scripts/setup-infrastructure.js"
+  },
+  "keywords": [],
+  "author": "Aric Day",
+  "license": "ISC",
+  "description": "Aric's Retail ISV Super Store - Omnichannel SMS/RCS Preference Center POC",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "twilio": "^6.0.2"
+  }
+}
