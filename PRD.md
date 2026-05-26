@@ -6,7 +6,7 @@
 
 **Author:** Aric Day
 
-**Status:** Draft
+**Status:** v1.0
 
 ---
 
